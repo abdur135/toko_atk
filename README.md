@@ -19,7 +19,7 @@ Mengelola data kategori, produk, mutasi stok (barang masuk/keluar), pengguna, da
 
 <div align="center">
 
-[![Watch Demo on YouTube](https://img.shields.io/badge/▶️_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/https://youtu.be/B4s9VTaU1Zo)
+[![Watch Demo on YouTube](https://img.shields.io/badge/▶️_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/B4s9VTaU1Zo)
 
 </div>
 
